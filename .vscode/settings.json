@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "tests\\bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/402cefd9-3c6b-4b3e-a215-0fdd1ad922d2/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/DigitalLeaf"
+}
